@@ -10,8 +10,6 @@ Here are some projects I've been working on:
 Nah wait for it !!
 coming soon !!
 
-Feel free to explore these projects, and I welcome any feedback or collaboration!
-
 ## 🌱 Current Focus
 I'm currently delving into the coding realm by learning through CS50. Excited about Learning new stuff !
 
